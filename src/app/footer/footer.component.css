@@ -1,0 +1,9 @@
+.footer-container{
+    width: 100%;
+    color:white;
+    display: flex;
+    flex-direction: row;
+}
+label{
+    color: white;
+}
